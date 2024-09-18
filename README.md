@@ -1,4 +1,3 @@
-# Prodigy Infotech Internship task 3 of Machine Learning
 ## Image classification of dogs and cats by implementing SVM
 
 ### Overview
